@@ -1,7 +1,4 @@
 # potatozip
-|||
-|:-:|:-:|
-|||
 
 ## About
 Unity 기반 3D 인테리어 시뮬레이션 (Android App).
@@ -25,8 +22,3 @@ C#, Unity, Android Studio, Blender
 - [X] Screenshot and share
 - [X] Save wallpaper/floor
 - [ ] Save furniture arrangement
-
-## Error
-|Problem|Solution|
-|:-|:-|
-|||
